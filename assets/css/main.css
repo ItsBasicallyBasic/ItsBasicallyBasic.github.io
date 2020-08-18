@@ -108,16 +108,16 @@ body {
 }
 
 .line1:after{
-    max-width: 90%;
+    max-width: 85%;
 }
 .line2:after {
-    max-width: 85%;
+    max-width: 75%;
 }
 .line3:after {
     max-width: 50%;
 }
 .line4:after {
-    max-width: 80%;
+    max-width: 75%;
 }
 .line5:after {
     max-width: 55%;
@@ -135,28 +135,28 @@ body {
     max-width: 40%;
 }
 .line10:after {
-    max-width: 90%;
+    max-width: 75%;
 }
 .line11:after {
-    max-width: 85%;
+    max-width: 75%;
 }
 .line12:after {
-    max-width: 80%;
-}
-.line13:after {
-    max-width: 80%;
-}
-.line14:after {
-    max-width: 80%;
-}
-.line15:after {
     max-width: 70%;
 }
-.line16:after {
+.line13:after {
+    max-width: 70%;
+}
+.line14:after {
+    max-width: 70%;
+}
+.line15:after {
     max-width: 65%;
 }
+.line16:after {
+    max-width: 60%;
+}
 .line17:after {
-    max-width: 40%;
+    max-width: 35%;
 }
 .line18:after {
     max-width: 30%;
