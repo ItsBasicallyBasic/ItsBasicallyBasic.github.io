@@ -33,6 +33,26 @@ body {
 	line-height: 1;
 }
 
+.videocontainer {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+}
+
+.pdfcontainer {
+    position: relative;
+    width: 100%;
+    padding-top: 150%;
+}
+
+.content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
 .container {
     position: relative;
     width: 100%;
@@ -85,7 +105,7 @@ body {
     top: 0;
     z-index: 1;
     background: #d2d6d7;
-    box-shadow: inset 0px 0px 3px 3px rgba(0,0,0,0.1);
+    box-shadow: inset 2px 2px 3px 3px rgba(0,0,0,0.1);
 }
 .line:after{
     content: '';
@@ -108,10 +128,10 @@ body {
 }
 
 .line1:after{
-    max-width: 85%;
+    max-width: 75%;
 }
 .line2:after {
-    max-width: 75%;
+    max-width: 65%;
 }
 .line3:after {
     max-width: 50%;
